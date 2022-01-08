@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Fungsi Pencarian</description>
+   <name>2a</name>
+   <tag>Search</tag>
+   <comment></comment>
+   <testCaseGuid>41dd0ad4-49a2-4544-bf9e-24e5149e99dc</testCaseGuid>
+</TestCaseEntity>

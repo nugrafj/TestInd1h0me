@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Login ketika email dibiarkan kosong</description>
+   <name>1c</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8153231b-a126-49a8-b499-bcc3c07e5f07</testCaseGuid>
+</TestCaseEntity>

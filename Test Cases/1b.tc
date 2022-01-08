@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Login ketika email valid dan kata sandi tidak valid</description>
+   <name>1b</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>e61b6a83-ac73-4b38-b41f-3ccfba4a4565</testCaseGuid>
+</TestCaseEntity>
