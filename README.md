@@ -1,2 +1,2 @@
 # TestInd1h0me
-Berisi file Test Case dan Proyek Test Automation menggunakan Katalon Studio
+Berisi file TestCase.xls dan Proyek Test Automation menggunakan Katalon Studio
