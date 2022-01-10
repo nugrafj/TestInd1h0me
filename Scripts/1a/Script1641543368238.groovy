@@ -41,7 +41,15 @@ WebUI.setEncryptedText(findTestObject('Pages/Login/Input Kata Sandi'), 'eL+5wsSZ
 
 WebUI.click(findTestObject('Pages/Login/Lanjut'))
 
-WebUI.verifyTextPresent('Pilih Metode Verifikasi', false)
+WebUI.click(findTestObject('Pages/Login/SMS'))
+
+//WebUI.click(findTestObject('Pages/Login/otp1'))
+
+//WebUI.setText(findTestObject('Pages/Login/otp1'), CustomKeywords.'mfa.readMFA.GetMFAToken'())
+
+//WebUI.waitForPageLoad(GlobalVariable.Timeout)
+
+//WebUI.verifyElementPresent(findTestObject('Pages/Login/div_M'), GlobalVariable.Timeout)
 
 WebUI.closeBrowser()
 

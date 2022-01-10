@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "3412CDD0A4A88EF6CDE5C853700B5E26",
+  "keywordClasses": [
+    {
+      "name": "mfa.readMFA",
+      "keywordMethods": [
+        {
+          "name": "GetMFAToken",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
